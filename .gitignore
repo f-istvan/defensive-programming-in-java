@@ -1,0 +1,8 @@
+*.pydevproject
+.metadata
+*.swp
+.settings/
+.project
+.classpath
+/target/*
+/target/
